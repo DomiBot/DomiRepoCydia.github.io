@@ -1,0 +1,16 @@
+Package: com.domi.springboardtransparenttweak.deb
+Version: 0.0.1-1+debug
+Installed-Size: 132
+Architecture: iphoneos-arm
+Maintainer: Domi
+Author: Domi
+Filename: ./debs/SpringboardTransparentTweak/com.domi.springboardtransparenttweak_0.0.1-1+debug_iphoneos-arm.deb
+Size: 10092
+MD5sum: baeb8f537c3e22ed2736a852dcd7ab9a
+SHA1: 1bf56bbf0ba4f618f7b9f74eca70eb24e78d5fee
+SHA256: 564d490df35b5eae13cda56098e0435d56cdf4c040f187619aefd330681c0ebe
+Section: Tweaks
+Priority: optional
+Description: Dock Transparent - FolderIcon And Folder Background Transparent - No Page Dots
+Name: Springboard Transparent Tweak
+
